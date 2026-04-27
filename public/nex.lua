@@ -102,7 +102,7 @@ function Nex.CreateWindow(options)
     local UIPadding = Instance.new("UIPadding")
     UIPadding.PaddingTop = UDim.new(0, 2)
     UIPadding.PaddingBottom = UDim.new(0, 10)
-    UIPadding.Parent 5= ContentContainer
+    UIPadding.Parent = ContentContainer
     
     -- Dragging Logic
     local dragging, dragInput, dragStart, startPos
