@@ -387,4 +387,3 @@ end
 -- Tab1.CreateSlider({Title = "Speed", Min = 16, Max = 100, Callback = function(v) print(v) end})
 
 return Flux
-`
